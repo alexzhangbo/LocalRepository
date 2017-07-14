@@ -7,11 +7,7 @@ public class MainClass {
 
 	public static void main(String[] args) 
 	{
-		// TODO 自动生成的方法存根
-		
-		
-		
-		
+	
 		//String imageUrl="http://img1.mm131.com/pic/";
 		//String newImageName="D:/pic/";
 		String imageUrl="https://img.aitaotu.cc:8089/Pics/2017/01";
