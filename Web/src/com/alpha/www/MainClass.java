@@ -1,6 +1,7 @@
 package com.alpha.www;
 
-public class MainClass {
+public class MainClass 
+{
 
 	public static void main(String[] args)
 	{
